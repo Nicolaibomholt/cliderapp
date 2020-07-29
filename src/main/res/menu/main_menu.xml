@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+    android:id="@+id/preferencesTab"
+    android:icon="@android:drawable/ic_menu_edit"
+    app:showAsAction="always"
+        android:title="@string/myPrefs"/>
+
+    <item
+        android:id="@+id/myListTab"
+        android:title="@string/myClotheList"
+        android:icon="@android:drawable/star_on"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/mapsID"
+        android:title="@string/places"
+        android:icon="@android:drawable/ic_dialog_map"
+        app:showAsAction="always"
+        />
+
+</menu>

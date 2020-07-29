@@ -1,0 +1,470 @@
+[  
+   {
+      "id": "2ff0d60d-547d-4e57-9513-008f8b9febd8",
+      "url":"https://mosaic01.ztat.net/vgs/media/pdp-zoom/TO/11/2B/02/SA/11/TO112B02S-A11@12.jpg",
+      "name":"HARRINGTON - Tommy Hilfiger",
+      "location":"Zalando",
+      "tag": "SHOE_TAG",
+      "webshopurl": "https://www.zalando.dk/tommy-hilfiger-harrington-sneakers-to112b02s-a11.html",
+      "sexTag": "FEMALE",
+      "price": "249"
+   },
+   {
+      "id": "2135eb0e-fb54-45d8-b1e5-661df1a882e2",
+      "url":"https://mosaic01.ztat.net/vgs/media/pdp-zoom/AD/11/6D/0A/YB/11/AD116D0AY-B11@11.jpg",
+      "name":"SWIFT RUN - adidas Originals",
+      "location":"Zalando",
+      "tag": "SHOE_TAG",
+      "webshopurl": "https://www.zalando.dk/adidas-originals-swift-run-sneakers-ad116d0ay-b11.html",
+      "sexTag": "FEMALE",
+      "price": "370"
+   },
+   {
+      "id": "29d52e4a-96a3-4fd1-a42f-c28887eee60c",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/28/6a/286a3457a07c431e8c96ff02fd753dd1437c9ef9.jpg],origin[dam],category[ladies_dresses_shortdresses],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "name":"Off shoulder-kjole i bomuld",
+      "location":"H&M",
+      "tag": "DRESS_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0584327004.html",
+      "sexTag": "FEMALE",
+      "price": "150"
+   },
+   {
+      "id": "5e1a7f5f-0e2f-4d4b-9b7e-6bf7e2a8b41d",
+      "url":"https://mosaic01.ztat.net/vgs/media/pdp-zoom/AD/12/1C/03/9Q/11/AD121C039-Q11@8.jpg",
+      "name":"ADICOLOR THREE STRIPES DRESS - Adidas Originals",
+      "location":"Zalando",
+      "tag": "DRESS_TAG",
+      "webshopurl": "https://www.zalando.dk/adidas-originals-3-stripes-dress-jerseykjoler-ad121c039-q11.html",
+      "sexTag": "FEMALE",
+      "price": "230"
+   },
+   {
+      "id": "b28b081d-b3d9-40d7-81bc-ce81c0e376df",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/b1/83/b18328440e8bbf144585a480019e090ccc0af636.jpg],origin[dam],category[men_jacketscoats_jackets],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "name":"Denimjacket",
+      "location":"H&M",
+      "tag": "JACKET_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0497640002.html",
+      "sexTag": "MALE",
+      "price": "500"
+   },
+   {
+      "id": "bc057bd8-0e15-4e40-b38a-785fd16e8e6f",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/0b/6a/0b6aeeec5b6aab225e531bda9fb5a8b3e4ff9b31.jpg],origin[dam],category[men_jacketscoats_jackets],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "name":"Anorak",
+      "location":"H&M",
+      "tag": "JACKET_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0599945002.html",
+      "sexTag": "MALE",
+      "price": "650"
+   },
+   {
+      "id": "21b47811-4e17-461e-8319-4e737a90cf44",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/59/6c/596c459df487a3161345405df4b6eae82f68926b.jpg],origin[dam],category[ladies_accessories_sunglasses],type[DESCRIPTIVESTILLLIFE],res[x],hmver[1]&call=url[file:/product/fullscreen]",
+      "name":"Polarized sunglasses ",
+      "location":"H&M",
+      "tag": "ACCESSORIES_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0481347006.html",
+      "sexTag": "FEMALE",
+      "price": "250"
+   },
+   {
+      "id": "35cec0c2-88bf-4c04-bfb0-7da21f574364",
+      "url":"https://images.booztx.com/lauren-ralph-lauren/183x239/raf454706818_clightblue_v10000672wis.jpg",
+      "name":"LAUREN RALPH LAUREN",
+      "location":"Boozt",
+      "tag": "ACCESSORIES_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/lauren-ralph-lauren/dotted-bridle-print-silk-scarf_17061549/17061550?navId=67705&group=listing&position=1000000",
+      "sexTag": "FEMALE",
+      "price": "649"
+   },
+   {
+      "id": "58a303c5-efaa-40f0-8716-b7db00e3349b",
+      "url":"http://images.asos-media.com/products/asos-jersey-polo-in-navy/8895134-2?$XXL$&wid=513&fit=constrain",
+      "name":"ASOS Jersey Polo in Navy",
+      "location":"ASOS",
+      "tag": "TSHIRT_TAG",
+      "webshopurl": "http://www.asos.com/asos/asos-jersey-polo-in-navy/prd/8895134?clr=navy&SearchQuery=&cid=7616&gridcolumn=4&gridrow=7&gridsize=4&pge=1&pgesize=72&totalstyles=4731",
+      "sexTag": "MALE",
+      "price": "300"
+   },
+   {
+      "id": "a25a1640-7fe3-4f93-a520-3bbd18f7a626",
+      "url":"https://shop.bestseller.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dwb92a4d44/pim-static/large/15148962_Black_629110_001_ProductLarge.jpg?sw=685",
+      "name":"Seamless training bra",
+      "location":"Bestseller",
+      "tag": "SPORT_TAG",
+      "webshopurl": "https://shop.bestseller.com/dk/da/bc/kvinder/sportstoej/seamless-traeningsbh-15148962.html?cgid=bc-women-sportswear&dwvar_colorPattern=15148962_Black_629110",
+      "sexTag": "FEMALE",
+      "price": "170"
+   },
+   {
+      "id": "67c704fa-fba1-45b3-a59a-640d4c0618d8",
+      "url":"https://shop.bestseller.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dwbeaaa0e2/pim-static/large/12110182_BronzeGreen_001_ProductLarge.jpg?sw=1920",
+      "name":"THINSULATE BEANIE",
+      "location":"Bestseller",
+      "tag": "HAT_TAG",
+      "webshopurl": "https://shop.bestseller.com/dk/da/bc/maend/accessories/huer/thinsulate-beanie-12110182.html?cgid=bc-men-hats&dwvar_colorPattern=12110182_BronzeGreen",
+      "sexTag": "MALE",
+      "price": "210"
+   },
+   {
+      "id": "11d635cf-ab9f-4978-b793-9f13eac1bbae",
+      "url":"http://images.asos-media.com/products/stradivarius-denim-shorts-in-beige/10047409-1-beige?$XXL$&wid=513&fit=constrain",
+      "name":"Stradivarius Denim Shorts In Beige",
+      "location":"ASOS",
+      "tag": "SHORTS_TAG",
+      "webshopurl": "http://www.asos.com/stradivarius/stradivarius-denim-shorts-in-beige/prd/10047409?clr=beige&SearchQuery=&cid=7078&gridcolumn=2&gridrow=2&gridsize=4&pge=1&pgesize=72&totalstyles=627",
+      "sexTag": "MALE",
+      "price": "339"
+   },
+   {
+      "id": "df39904d-3d11-48fe-ac75-b495213f4da3",
+      "url":"https://images.booztx.com/kari-traa/183x239/kta622026_cmauve.jpg",
+      "name":"KARI TRAA",
+      "location":"Boozt",
+      "tag": "SPORT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/kari-traa/tina-tee_17265620/17265630?navId=68542&group=listing&position=1000000",
+      "sexTag": "FEMALE",
+      "price": "229"
+   },
+   {
+      "id": "3381b681-fede-41d5-bc92-f036aa6cd762",
+      "url":"https://images.booztx.com/holzweiler/183x239/holu1811301_cred.jpg",
+      "name":"HOLZWEILER Beanie",
+      "location":"Boozt",
+      "tag": "HAT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/holzweiler/memerized-beanie_17123149/17123151?navId=67706&group=listing&position=1000000",
+      "sexTag": "MALE",
+      "price": "75"
+   },
+   {
+      "id": "dba22640-8619-44d4-9198-7fd3ba13e3e3",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/0d/28/0d28f787373528dd2fa0ab6b18288f88a5b238e8.jpg],origin[dam],category[men_jacketscoats_bomberjackets],type[LOOKBOOK],res[l],hmver[1]&call=url[file:/product/fullscreen]",
+      "name":"Bomberjakke i nylonblanding",
+      "location":"H&M",
+      "tag": "JACKET_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0601281001.html",
+      "sexTag": "MALE",
+      "price": "349"
+   },
+   {
+      "id": "86a8215b-5410-401c-a2a0-41c9f3521538",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/c6/2d/c62d9059dd5b741ffc3bcedc4837835932329533.jpg],origin[dam],category[men_jacketscoats_coats],type[LOOKBOOK],res[s],hmver[1]&call=url[file:/product/main]",
+      "name":"Kort trenchcoat",
+      "location":"H&M",
+      "tag": "JACKET_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0551550005.html",
+      "sexTag": "MALE",
+      "price": "799"
+   },
+   {
+      "id": "1de18cb5-ea48-44a6-974d-a351cf40cbfe",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/c2/4d/c24dc4b5dc11565ebd5b574ec7b91ddd0643f4a7.jpg],origin[dam],category[men_shorts],type[LOOKBOOK],hmver[1]&call=url[file:/product/main]",
+      "name":"Knælange bomuldsshorts i blå",
+      "location":"H&M",
+      "tag": "SHORTS_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0488561015.html",
+      "sexTag": "MALE",
+      "price": "89"
+   },
+   {
+      "id": "023916bd-ede6-4694-a47f-ca3acf363469",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/e7/a9/e7a930d02b996684834f4814a969ea1efa4a981c.jpg],origin[dam],category[],type[LOOKBOOK],hmver[1]&call=url[file:/product/main]",
+      "name":"Denimshorts Slim fit i sort",
+      "location":"H&M",
+      "tag": "SHORTS_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0584157001.html",
+      "sexTag": "MALE",
+      "price": "179"
+   },
+   {
+      "id": "31b7e67d-3aae-4284-98be-2764d57bd2c9",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/b3/03/b303ab9a8e9812db24294ae0cff32b9c4ecedc81.jpg],origin[dam],category[men_shorts_denim],type[LOOKBOOK],hmver[1]&call=url[file:/product/main]",
+      "name":"Denimshorts Slim fit i denimblå",
+      "location":"H&M",
+      "tag": "SHORTS_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0584157003.html",
+      "sexTag": "MALE",
+      "price": "179"
+   },
+   {
+      "id": "84d174a8-7f46-448f-8756-9464298fe5c7",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/98/7d/987def27ca5d8426221d32b3fd48f3ac4b3e014d.jpg],origin[dam],category[men_sport_sportaccessories],type[DESCRIPTIVESTILLLIFE],hmver[1]&call=url[file:/product/main]",
+      "name":"5-pak sportsstrømper",
+      "location":"H&M",
+      "tag": "SPORT_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0551515002.html",
+      "sexTag": "MALE",
+      "price": "79"
+   },
+   {
+      "id": "84d174a8-7f46-448f-8756-9464298fe5c7",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/66/e5/66e5c1cca05eea183324fae1fcb00303d53e9a11.jpg],origin[dam],category[men_sport_bottoms],type[LOOKBOOK],hmver[1]&call=url[file:/product/main]",
+      "name":"Grå Træningsshorts",
+      "location":"H&M",
+      "tag": "SPORT_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0478004012.html",
+      "sexTag": "MALE",
+      "price": "199"
+   },
+   {
+      "id": "20b3cd1f-0be6-46a5-9b59-a4e93c563d47",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/9a/df/9adf0f5d87327fe98b119911ea28b2ece98f9719.jpg],origin[dam],category[men_sport_tops],type[LOOKBOOK],hmver[1]&call=url[file:/product/main]",
+      "name":"Løbetop",
+      "location":"H&M",
+      "tag": "SPORT_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0387348012.html",
+      "sexTag": "MALE",
+      "price": "99"
+   },
+
+   {
+      "id": "80d02d04-d50b-492b-8981-381a262cc51b",
+      "url":"http://lp2.hm.com/hmprod?set=source[/model/2017/F00%200561758%20001%2055%200409.jpg],type[STILLLIFE_FRONT]&hmver=1&call=url[file:/product/style]",
+      "name":"Solbriller",
+      "location":"H&M",
+      "tag": "ACCESSORIES_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0561758001.html",
+      "sexTag": "MALE",
+      "price": "69"
+   },
+   {
+      "id": "570ba683-0d0a-4dae-a90f-f6dffddad1bb",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/0c/6d/0c6d92f606b298f0c329e61447103c8f25296b87.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],hmver[1]&call=url[file:/product/style]",
+      "name":"Punk bælte",
+      "location":"H&M",
+      "tag": "ACCESSORIES_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0605139001.html",
+      "sexTag": "MALE",
+      "price": "179"
+   },
+   {
+      "id": "19729bb9-96a6-42e9-8bcb-1d9ba826bc13",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/4e/2c/4e2c336eb9807b27e8859c4d1098a602d22b3d1f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],hmver[1]&call=url[file:/product/style]",
+      "name":"Bæltetaske",
+      "location":"H&M",
+      "tag": "ACCESSORIES_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0615181001.html",
+      "sexTag": "MALE",
+      "price": "149"
+   },
+
+   {
+      "id": "66102867-8dc9-4215-b634-b7a6faeb77b5",
+      "url":"https://images.booztx.com/levi-men/183x239/lsm224890116_chmssnltonalflo.jpg",
+      "name":"LEVI´S MEN - T-Shirt sort",
+      "location":"Boozt",
+      "tag": "TSHIRT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/levi-men/housemark-graphic-tee-hm-ssnl_17628950/17628953?navId=67805&group=listing&position=1000000",
+      "sexTag": "MALE",
+      "price": "249"
+   },
+   {
+      "id": "28bd4beb-5b17-40f9-81da-3c3bb4153a40",
+      "url":"https://images.booztx.com/polo-ralph-lauren/183x239/raf710684972_cprovincetownblue_v10011462ypt.jpg",
+      "name":"Blå Polo - Ralph Lauren",
+      "location":"Boozt",
+      "tag": "TSHIRT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/polo-ralph-lauren/cotton-jersey-graphic-shirt_16699440/16699442?navId=67805&group=listing&position=1000000",
+      "sexTag": "MALE",
+      "price": "449"
+   },
+   {
+      "id": "4396bc74-8814-498e-a71f-63f5cee26f72",
+      "url":"https://images.booztx.com/nn07-ob/183x239/nob1843307495_cbengalyellow.jpg",
+      "name":"Stripet T-shirt fra NN7",
+      "location":"Boozt",
+      "tag": "TSHIRT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/nn07-ob/roper-pocket-3307_18064540/18064541?navId=67805&group=listing&position=1000000",
+      "sexTag": "MALE",
+      "price": "499"
+   },
+
+   {
+      "id": "3ec9b212-723c-4087-9c87-a8d92de14cd0",
+      "url":"https://images.booztx.com/calvin-klein/183x239/ckmk40k400072_cblack_v001.jpg",
+      "name":"Calvin Klein Cap i sort",
+      "location":"Boozt",
+      "tag": "HAT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/calvin-klein/j-re-issue-baseball_17182215/17182221?navId=67899&group=listing&position=1000000",
+      "sexTag": "MALE",
+      "price": "300"
+   },
+   {
+      "id": "2e44d555-ea4b-4369-98f3-9b3a74b09794",
+      "url":"https://images.booztx.com/tommy-hilfiger/183x239/toham0am03340_cbrightwhite_v104.jpg",
+      "name":"Tommy Hilfiger Cap i hvid",
+      "location":"Boozt",
+      "tag": "HAT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/tommy-hilfiger/tommy-h-cap_17020874/17020875?navId=67899&group=listing&position=1000000",
+      "sexTag": "MALE",
+      "price": "262"
+   },
+   {
+      "id": "d19572e2-60e1-4e25-b924-bfbde16fc591",
+      "url":"https://images.booztx.com/superdry/183x239/sdm90003wq_cnavy.jpg",
+      "name":"SuperDry Cap i navy blå",
+      "location":"Boozt",
+      "tag": "HAT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/superdry/hb-lineman-trucker-cap_17350408/17350410?navId=67899&group=listing&position=1000000",
+      "sexTag": "MALE",
+      "price": "186"
+   },
+   {
+      "id": "311dafb8-1303-4aa7-b319-1929d19e4182",
+      "url":"https://mosaic01.ztat.net/vgs/media/packshot/pdp-zoom/EV/61/1B/08/QQ/11/EV611B08Q-Q11@4.3.jpg",
+      "name":"ILARIA - Højhælede pumps",
+      "location":"Zalando",
+      "tag": "SHOE_TAG",
+      "webshopurl": "https://www.zalando.dk/evita-pumps-black-ev611b08q-q11.html",
+      "sexTag": "FEMALE",
+      "price": "1.450"
+   },
+
+   {
+      "id": "94846569-22c2-4f6b-8e86-86e338a34b27",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/0f/e3/0fe3792bacafc03cfb295c8f57d17846b05e2bf9.jpg],origin[dam],category[ladies_shoes_pumps_highheels],type[DESCRIPTIVESTILLLIFE],res[m],hmver[1]&call=url[file:/product/main]",
+      "name":"Sandaler med hæl",
+      "location":"H&M",
+      "tag": "SHOE_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0518765003.html",
+      "sexTag": "FEMALE",
+      "price": "199"
+   },
+
+   {
+      "id": "55052aa5-7334-4408-aa57-4303177fdbd1",
+      "url":"https://images.booztx.com/billi-bi/183x239/bbi16650_csunflower18satin96_1.jpg",
+      "name":"Billi Bi Sandals",
+      "location":"Boozt",
+      "tag": "SHOE_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/billi-bi/sandals_17363465/17363480?navId=67521&group=listing&position=1000000",
+      "sexTag": "FEMALE",
+      "price": "674"
+   },
+
+   {
+      "id": "7e793e7b-39ab-4d8d-920c-0e3368119b47",
+      "url":"https://shop.bestseller.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dw21265300/pim-static/large/16065069_BlueYonder_656611_001_ProductLarge.jpg?sw=685",
+      "name":"Printet - jumpsuit",
+      "location":"Bestseller",
+      "tag": "DRESS_TAG",
+      "webshopurl": "https://shop.bestseller.com/dk/da/bc/selected-femme/printet---jumpsuit-16065069.html?cgid=bc-selected-femme&dwvar_colorPattern=16065069_BlueYonder_656611",
+      "sexTag": "FEMALE",
+      "price": "899"
+   },
+
+   {
+      "id": "49263770-c7b5-4fd6-994f-cb9ed90f7ab8",
+      "url":"https://mosaic01.ztat.net/vgs/media/pdp-zoom/LE/22/1D/04/KA/11/LE221D04K-A11@8.1.jpg",
+      "name":"Graphic Tee - T-shirts print",
+      "location":"Zalando",
+      "tag": "TSHIRT_TAG",
+      "webshopurl": "https://www.zalando.dk/levisr-graphic-tee-t-shirts-print-cloud-dancer-le221d04k-a11.html",
+      "sexTag": "FEMALE",
+      "price": "299"
+   },
+
+   {
+      "id": "99017fa2-dcda-4aef-aee5-9501ed67069c",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/13/24/13249d1b26b838380e4855faa9be9b2c808fc38a.jpg],origin[dam],category[ladies_tops_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[m],hmver[1]&call=url[file:/product/main]",
+      "name":"T-shirt med tryk",
+      "location":"H&M",
+      "tag": "TSHIRT_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0578876001.html",
+      "sexTag": "FEMALE",
+      "price": "79"
+   },
+
+   {
+      "id": "a642f4f4-91ce-4764-b679-f944f484ecaf",
+      "url":"https://images.booztx.com/fenty-puma-by-rihanna/183x239/pum021854_c3345017361_v001.jpg",
+      "name":"Fenty Puma By Rihanna",
+      "location":"Boozt",
+      "tag": "HAT_TAG",
+      "webshopurl": "https://www.boozt.com/dk/da/fenty-puma-by-rihanna/strapped-bucket_17906450/17906452?navId=67706&group=listing&position=1000000",
+      "sexTag": "FEMALE",
+      "price": "430"
+   },
+
+   {
+      "id": "02eb819b-3b73-4e88-bf04-68998ebbe3ac",
+      "url":"https://shop.bestseller.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dw1a19838e/pim-static/large/20006241_NavyBlazer_001_ProductLarge.jpg?sw=685",
+      "name":"Blonde Ventekjole",
+      "location":"Bestseller",
+      "tag": "DRESS_TAG",
+      "webshopurl": "https://shop.bestseller.com/dk/da/bc/kvinder/toej/kjoler/hverdagskjoler/blonde-ventekjole-20006241.html?cgid=bc-women-clothes-dresses-casual&dwvar_colorPattern=20006241_NavyBlazer",
+      "sexTag": "FEMALE",
+      "price": "899"
+   },
+
+   {
+      "id": "0bdd0bd4-b5f0-4f5a-a8c1-65576ea79255",
+      "url":"https://shop.bestseller.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dw00617f14/pim-static/large/10190948_Black_600065_001_ProductLarge.jpg?sw=685",
+      "name":"Klassiske solbriller",
+      "location":"Bestseller",
+      "tag": "ACCESSORIES_TAG",
+      "webshopurl": "https://shop.bestseller.com/dk/da/bc/vero-moda/accessories/solbriller/klassiske-solbriller-10190948.html?cgid=bc-vero-moda-sunglasses&dwvar_colorPattern=10190948_Black_600065",
+      "sexTag": "FEMALE",
+      "price": "129"
+   },
+
+   {
+      "id": "fb29973a-20d5-4d34-8d30-7ce538e50fb5",
+      "url":"https://mosaic01.ztat.net/vgs/media/pdp-zoom/PE/35/1G/0B/KJ/11/PE351G0BK-J11@5.jpg",
+      "name":"Pcpaste long scarf - sjal / Tørklæder",
+      "location":"Zalando",
+      "tag": "ACCESSORIES_TAG",
+      "webshopurl": "https://www.zalando.dk/pieces-pcpaste-long-scarf-sjal--torklader-cameo-rose-pe351g0bk-j11.html",
+      "sexTag": "FEMALE",
+      "price": "129"
+   },
+
+   {
+      "id": "f331228b-af87-4e9a-bd7c-9ffafb70c307",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/39/1c/391c2d7167c4ca627b91d09e8c4600faf8512b37.jpg],origin[dam],category[ladies_sport_sportbras],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+      "name":"Sports-bh Low Support",
+      "location":"H&M",
+      "tag": "SPORT_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0628586002.html",
+      "sexTag": "FEMALE",
+      "price": "149"
+   },
+
+   {
+      "id": "de07a43f-f0a2-41db-a9fb-ca0b308f3066",
+      "url":"http://lp2.hm.com/hmgoepprod?set=source[/10/88/10886b6d307a87f1df6876a3acb5d146cd21354c.jpg],origin[dam],category[ladies_sport_tops_vest],type[LOOKBOOK],hmver[1]&call=url[file:/product/main]",
+      "name":"Træningstop",
+      "location":"H&M",
+      "tag": "SPORT_TAG",
+      "webshopurl": "http://www2.hm.com/da_dk/productpage.0586313006.html",
+      "sexTag": "FEMALE",
+      "price": "120"
+   },
+
+   {
+      "id": "2f9001a4-0206-4c15-b573-dfbe56cbe08f",
+      "url":"https://shop.bestseller.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dw595729c4/pim-static/large/15153079_Black_001_ProductLarge.jpg?sw=685",
+      "name":"Imiteret Jakke",
+      "location":"Bestseller",
+      "tag": "JACKET_TAG",
+      "webshopurl": "https://shop.bestseller.com/dk/da/bc/kvinder/toej/overtoej/imiteret-jakke-15153079.html?cgid=bc-women-outerwear&dwvar_colorPattern=15153079_Black",
+      "sexTag": "FEMALE",
+      "price": "379"
+   },
+
+   {
+      "id": "1e63e364-e86f-43f1-9c62-ebe4f7c52f3e",
+      "url":"https://mosaic01.ztat.net/vgs/media/pdp-zoom/TW/42/1S/00/KG/11/TW421S00K-G11@8.jpg",
+      "name":"Twintip shorts",
+      "location":"Zalando",
+      "tag": "SHORTS_TAG",
+      "webshopurl": "https://www.zalando.dk/twintip-shorts-red-tw421s00k-g11.html",
+      "sexTag": "FEMALE",
+      "price": "129"
+   }
+
+
+]

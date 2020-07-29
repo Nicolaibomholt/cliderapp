@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Clider</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signUp">Sign up</string>
+    <string name="login">Log in</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="signUpText">Dont have a user? Sign up </string>
+    <string name="loginText">Already have a user? Log in </string>
+    <string name="here">here</string>
+    <string name="logOut">Log out</string>
+    <string name="browse">Browse</string>
+    <string name="age">Age</string>
+    <string name="preferences">Select clothing categories</string>
+    <string name="myList">Go to liked items</string>
+    <string name="likeItems">Your liked items</string>
+    <string name="Shoes">Shoes</string>
+    <string name="Jackets">Jackets</string>
+    <string name="Dresses">Dresses</string>
+    <string name="Hats">Hats</string>
+    <string name="Tshirts">T-Shirts</string>
+    <string name="Shorts">Shorts</string>
+    <string name="SportsClothes">Sports clothes</string>
+    <string name="Accessories">Accessories</string>
+    <string name="myPrefs">My preferences</string>
+    <string name="myClotheList">Check my liked items</string>
+    <string name="setPreferences">Preferences</string>
+    <string name="swipe">Get swiping</string>
+    <string name="myListString">My List</string>
+    <string name="logginIn">Logging in..</string>
+    <string name="SigningUp">Signing up..</string>
+    <string name="fetch">Fetching preferences..</string>
+    <string name="fill">Please fill</string>
+    <string name="doneRegistering">Registered!</string>
+    <string name="failRegisterering">Could not register</string>
+    <string name="unknownUser">Unknown user, try again!</string>
+    <string name="saved">Information saved</string>
+    <string name="profil">Profile</string>
+    <string name="modelName">Model name: </string>
+    <string name="locationName">This can be bought at: </string>
+    <string name="price">Cost: </string>
+    <string name="suffixPrice">DKK</string>
+    <string name="gender">Gender</string>
+    <string name="places">Nearby clothe shops</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_clothe_list">clothes</string>
+    <string name="title_clothe_detail">clothe Detail</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
